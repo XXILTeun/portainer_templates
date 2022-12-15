@@ -2281,7 +2281,6 @@
       "description": "A Linux network-level advertisement and Internet tracker blocking application which acts as a DNS sinkhole.",
       "env": [
         {
-          "default": "SECUREPASSWORD",
           "label": "WEBPASSWORD",
           "name": "WEBPASSWORD"
         }
