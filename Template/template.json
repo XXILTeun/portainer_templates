@@ -606,7 +606,7 @@
     {
       "categories": ["Other", "Tools"],
       "description": "Another application bookmark dashboard, with fun features.",
-      "image": "rmountjoy/dashmachine:latest",
+      "image": "rmountjoy/dashmachine:develop",
       "logo": "https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Images/dashmachine_logo.png",
       "name": "dashmachine",
       "platform": "linux",
